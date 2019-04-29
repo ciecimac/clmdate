@@ -1,0 +1,5 @@
+﻿  stdafx.cpp
+  clmdate.cpp
+c:\users\hp301\desktop\clmdate\clmdate\clmdate.cpp(123): warning C4101: “i”: 未引用的局部变量
+  clmdate.vcxproj -> C:\Users\HP301\Desktop\clmdate\Debug\clmdate.exe
+  clmdate.vcxproj -> C:\Users\HP301\Desktop\clmdate\Debug\clmdate.pdb (Full PDB)
